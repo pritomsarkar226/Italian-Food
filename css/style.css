@@ -360,13 +360,15 @@ a.active{
 	float: none;
 	font-size: 15px;
 	font-family:  'ralewaymedium';
-
+	margin-bottom: 20px;
 }
 .cl{
 	clear: both;
 }
 .menu-sub-title{
 	color: #ffffff;
+	font-family:  'ralewaymedium';
+	font-size: 25px;
 }
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
