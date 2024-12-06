@@ -332,6 +332,7 @@ a.active{
 	color: #e88274;
 	text-align: center;
 	padding-top: 80px;
+	padding-bottom: 20px;
 }
 .fresh-food-title h3{
 	font-family: 'YesevaOne-Regular';
@@ -348,6 +349,7 @@ a.active{
 }
 .food-item{
 	color: #ffffff;
+	
 }
 .menu-name h2{
 	float: left;
@@ -360,7 +362,7 @@ a.active{
 	float: none;
 	font-size: 15px;
 	font-family:  'ralewaymedium';
-	margin-bottom: 20px;
+	
 }
 .cl{
 	clear: both;
@@ -368,7 +370,13 @@ a.active{
 .menu-sub-title{
 	color: #ffffff;
 	font-family:  'ralewaymedium';
-	font-size: 25px;
+	font-size: 20px;
+	margin-bottom: 20px;
+}
+.menu-border{
+	border-top: 1px solid #ffffff;
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
