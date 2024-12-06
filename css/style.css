@@ -525,7 +525,10 @@ a.active{
 		display: none;
 	}
 	.about-title h2{
-		font-size: 30px;
+		font-size: 35px;
+	}
+	.about-title h3{
+		font-size: 28px;
 	}
 	.see-more-button button{
 		margin-top:2px;
@@ -537,6 +540,12 @@ a.active{
 	}
 	.about-img img{
 		margin-top: 215px;
+	}
+	.main-title-spacilets h2{
+		font-size: 45px;
+		font-family: 'YesevaOne-Regular';
+		color: #ffffff;
+		text-align: center;
 	}
 	/**pasta*/
 	.pasta-text{
@@ -601,9 +610,26 @@ a.active{
 	.title-section{
 		display:block;
 	}
+	.about-title h2{
+		font-size: 40px;
+	}
+	.about-title h3{
+		font-size: 32px;
+	}
 	.about-img img{
 		margin-top:0px;
 	}
+	.main-title-spacilets h2{
+		font-size: 65px;
+		font-family: 'YesevaOne-Regular';
+		color: #ffffff;
+		text-align: center;
+		padding-bottom: 20px;
+	}
+	.sub-title-spacilets h2{
+		padding-bottom: 20px;
+	}
+
 	/*pasta*/
 	.pasta-text{
 		position: absolute;
